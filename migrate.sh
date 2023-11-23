@@ -43,3 +43,7 @@ nvm install node
 
 # route code cli to visual studio code
 code version use oss --install-dir /Applications/Visual\ Studio\ Code.app
+
+# set username
+git config --global user.name t0dorakis
+git config --global user.email theo.hillmann@gmail.com
